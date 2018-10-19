@@ -1,6 +1,6 @@
-# cylc Jupyter Notebooks
+# Notebooks for Cylc
 
-This repository contains Jupyter Notebooks for [cylc](https://cylc.github.io/cylc/), a workflow engine.
+This repository contains Jupyter Notebooks for [Cylc](https://cylc.github.io/cylc/), a workflow engine.
 
 The notebooks here were largely inspired and based on the notebooks written by [Nicolas Fauchereau](https://github.com/nicolasfauchereau/Python-for-data-analysis-and-visualisation).
 
